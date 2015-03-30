@@ -5,10 +5,5 @@
 
     Setting `disableAnalytics` to true will prevent any data from being sent.
   */
-  "disableAnalytics": false,
-  "analytics": true,
-  "interactive": true,
-  "proxy": "http://172.16.0.1:3128",
-  "http-proxy": "http://172.16.0.1:3128",
-  "https-proxy": "http://172.16.0.1:3128"
+  "disableAnalytics": false
 }
